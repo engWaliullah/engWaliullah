@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="100%" src="https://github.com/waliullah9099/waliullah9099/blob/main/Blue%20White%20Neon%20Gaming%20Channel%20Tips%20LinkedIn%20Banner.png" />
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/waliullah9099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waliullah9099) 
 
