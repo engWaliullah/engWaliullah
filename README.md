@@ -9,7 +9,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/waliullah9099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waliullah9099) ]
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=waliullah9099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=waliullah9099&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waliullah9099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
