@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="![Image](https://github.com/user-attachments/assets/2885f670-60da-47b5-92d0-52e3058a60c8)" />
+<img align="center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/2885f670-60da-47b5-92d0-52e3058a60c8)" />
 
 
 # 💻 Tech Stack:
