@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://github.com/waliullah9099/waliullah9099/blob/main/Blue%20White%20Neon%20Gaming%20Channel%20Tips%20LinkedIn%20Banner%20(1).png" />
+<img align="center" alt="Coding" width="100%" src="![Image](https://github.com/user-attachments/assets/2885f670-60da-47b5-92d0-52e3058a60c8)" />
 
 
 # 💻 Tech Stack:
