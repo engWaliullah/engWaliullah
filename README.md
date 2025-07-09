@@ -29,7 +29,7 @@ Here are the primary tools and technologies I work with:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Golang
     </td>
@@ -71,9 +71,9 @@ Here are the primary tools and technologies I work with:
 ### 📊 My GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Waliullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=engWaliullah&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
-  </a>
+  </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Waliullah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engWaliullah&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
   </a>
@@ -81,12 +81,6 @@ Here are the primary tools and technologies I work with:
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=engWaliullah&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/engWaliullah">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=engWaliullah&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
   </a>
 </p>
 
