@@ -45,6 +45,10 @@ Here are the primary tools and technologies I work with:
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>React.js
+    </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
@@ -78,11 +82,11 @@ Here are the primary tools and technologies I work with:
     <img alt="Waliullah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engWaliullah&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=engWaliullah&theme=tokyonight&hide_border=true" />
   </a>
-</p>
+</p> -->
 
 
 
