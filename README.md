@@ -29,7 +29,7 @@ Here are the primary tools and technologies I work with:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Golang
     </td>
@@ -38,7 +38,7 @@ Here are the primary tools and technologies I work with:
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>Typescript
     </td>
           <td align="center" width="96">
@@ -67,48 +67,26 @@ Here are the primary tools and technologies I work with:
 </table>
 
 
-### **Specializations**
-- **RESTful API Development** - JWT, OAuth, Authentication
-- **Database Management** - PostgreSQL, MySQL, Query Optimisation
-- **Backend Architecture** - Scalable system design, API documentation
-- **Problem Solving** - Data Structures & Algorithms (400+ problems solved)
-
----
-
----
-
-### 🔭 What I'm Currently Working On
-
--   **FitCore (Fitness Application):** Designing and building the backend for a comprehensive fitness tracking app using Django REST Framework. The focus is on creating a scalable foundation for core features, such as secure user authentication, workout logging, and progress tracking, with clean, well-documented RESTful APIs.
--   **Community Building:** I run a **[Discord community](https://discord.gg/7ya6xCfwnY)** and GitHub organisation called **[Refresh Your DSA](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving)**, where we help each other improve our Data Structures and Algorithms skills.
-
-### 🌱 My Learning Goals
-
--   Diving deeper into **Docker** and **Kubernetes** for containerization and orchestration.
--   Exploring **cloud deployment** with AWS (EC2, S3, RDS).
--   Gaining proficiency in a modern frontend framework like **React** to better understand full-stack architecture.
-
----
 
 ### 📊 My GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Roni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roniahamed&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
+    <img alt="Waliullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=engWaliullah&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Roni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniahamed&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+    <img alt="Waliullah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engWaliullah&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=engWaliullah&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/roniahamed">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=roniahamed&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+  <a href="https://github.com/engWaliullah">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=engWaliullah&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
   </a>
 </p>
 
