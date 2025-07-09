@@ -49,6 +49,10 @@ Here are the primary tools and technologies I work with:
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
       <br>React.js
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
@@ -59,10 +63,6 @@ Here are the primary tools and technologies I work with:
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
         <td align="center" width="96">
         <img src="https://github.com/roniahamed/roniahamed/blob/main/img/vs-code.gif" width="48" height="48" alt="jquery" />
       <br>Vs-Code
@@ -74,7 +74,7 @@ Here are the primary tools and technologies I work with:
 
 ### 📊 My GitHub Analytics
 
-<p align="center">
+<p align="">
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Waliullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=engWaliullah&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
   </a> -->
